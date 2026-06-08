@@ -1,1 +1,1 @@
-Code for Classify and Label the Content from the German Text Snippets of the Sustainable Development Report.
+Code for Classify and Label the Content from the German Text Snippets of the Sustainable Development Report e.g. wangkongqiang@SustainEval 2025: Classify and Label the Content from the German Text Snippets of the Sustainable Development Report.
